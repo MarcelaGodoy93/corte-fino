@@ -16,4 +16,5 @@ Landing page para barbería ficticia desarrollada como proyecto de portafolio.
 - Galería con grid asimétrico
 
 ##Demo
+
 corte-fino.vercel.app
